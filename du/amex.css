@@ -1,0 +1,5 @@
+struct MyStruct {
+    double c;
+    int a;
+    char b;
+};
